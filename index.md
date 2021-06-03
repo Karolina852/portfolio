@@ -47,10 +47,10 @@
 
 <h2>Adobe Photoshop</h2>
 <div>
-  <div style="text-align: left">
+  <div style="float: left">
    <img width="20%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
   </div>
-  <div style="text-align: right">
+  <div style="float: right">
    <img width="20%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
   </div>
 </div>
