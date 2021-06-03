@@ -46,15 +46,15 @@
 
 
 <h2>Adobe Photoshop</h2>
-
-<div style="text-align: center">
-  <p>Obróbka zdjęć z zastosowaniem maski</p><br/>
  <div style="text-align: left">
   <img width="50%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
  </div>
  <div style="text-align: right">
   <img width="50%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
  </div>
+<div style="text-align: center">
+  <p>Obróbka zdjęć z zastosowaniem maski</p><br/>
+
   <img alt="efekt_końcowy" src="https://user-images.githubusercontent.com/80105696/120714519-96a51480-c4c3-11eb-905e-49f8a415b8f1.png">
 </div>
 
