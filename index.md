@@ -68,18 +68,36 @@
 <br/><br/>
 <p><strong>Oczyszczenie starego zdjęcia</strong></p>
 <div style="display: flex; padding-top: -10px">
-  <div style="flex: 50%; padding-top: -10px; padding-left: 5px; padding-right: 5px">
+  <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia początkowe</p>
    <img width="100%" alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
   </div>
-  <div style="flex: 50%; padding-top: -10px; padding-left: 5px; padding-right: 5px">
+  <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia oczyszczone</p>
    <img width="100%" alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
   </div>
 </div>
+<br/><br/><br/>
 
 
-
+<h2>Adobe InDesign</h2>
+<p><strong>Fragmenty księgi znaku loga własnego</strong></p>
+<div style="display: flex; padding-top: -10px">
+  <div style="flex: 50%; padding: 5px">
+   <img width="100%" alt="str_tytułowa" src="https://user-images.githubusercontent.com/80105696/120787406-9fcbcb00-c52f-11eb-87cb-822c6cd12724.png">
+  </div>
+  <div style="flex: 50%; padding: 5px">
+   <img width="100%" alt="spis_treści" src="https://user-images.githubusercontent.com/80105696/120787452-aa866000-c52f-11eb-867b-65611a6b7eef.png">
+  </div>
+</div>
+<div style="display: flex">
+  <div style="flex: 50%; padding: 5px">
+   <img width="100%" alt="pola_ochronne" src="https://user-images.githubusercontent.com/80105696/120787454-aa866000-c52f-11eb-8d8e-a398805e23b4.png">
+  </div>
+  <div style="flex: 50%; padding: 5px">
+   <img width="100%" alt="skalowanie" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png">
+  </div>
+</div>
 
 
 
