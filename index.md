@@ -1,9 +1,12 @@
-<p style="color:#7c334f; font-size:19px">Autor prac:</p>
-<p style="color:black; font-size:15px">Karolina Kuczek</p>
-<p style="color:#7c334f; font-size:19px">E-mail:</p>
-<p style="color:black; font-size:15px">kuczek.karolina2@gmail.com</p>
-<p style="color:#7c334f; font-size:19px">Nr telefonu:</p>
-<p style="color:black; font-size:15px">690 495 230</p>
+<div style="text-align: right">
+ <p style="color:#7c334f; font-size:19px">Autor prac:</p>
+ <p style="color:black; font-size:15px"><b>Karolina Kuczek</b></p>
+ <p style="color:#7c334f; font-size:19px">E-mail:</p>
+ <p style="color:black; font-size:15px"><b>kuczek.karolina2@gmail.com</b></p>
+ <p style="color:#7c334f; font-size:19px">Nr telefonu:</p>
+ <p style="color:black; font-size:15px"><b>690 495 230</b></p>
+</div>
+<br/>
 <p>Poniższe prace zostały wykonane w celach niekomercyjnych</p>
 <br/><br/>
 
@@ -51,10 +54,10 @@
 <p>Zdjęcia bazowe</p>
 <div style="display: flex">
   <div style="flex: 50%; padding: 5px">
-   <img width="50%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
+   <img width="100%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
   </div>
   <div style="flex: 50%; padding: 5px">
-   <img width="50%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
+   <img width="100%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
   </div>
 </div>
 <p>Efekt końcowy</p>
@@ -63,7 +66,8 @@
 </div>
 
 <br/><br/>
-<p>Oczyszczenie starego zdjęcia</p><br/>
+<p>Oczyszczenie starego zdjęcia</p>
+     <div style="text-align: center">
 <div style="display: flex; text-align: center">
   <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia początkowe</p>
@@ -74,7 +78,7 @@
    <img  alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
   </div>
 </div>
-
+   </div>
 
 
 
