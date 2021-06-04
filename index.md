@@ -1,9 +1,9 @@
-<p style="color:#7c334f; size:14px">Autor prac:</p>
-<p style="color:black; size:12px">Karolina Kuczek</p>
-<p style="color:#7c334f; size:14px">E-mail:</p>
-<p style="color:black; size:12px">kuczek.karolina2@gmail.com</p>
-<p style="color:#7c334f; size:14px">Nr telefonu:</p>
-<p style="color:black; size:12px">690 495 230</p>
+<p style="color:#7c334f; size:19px">Autor prac:</p>
+<p style="color:black; size:15px">Karolina Kuczek</p>
+<p style="color:#7c334f; size:19px">E-mail:</p>
+<p style="color:black; size:15px">kuczek.karolina2@gmail.com</p>
+<p style="color:#7c334f; size:19px">Nr telefonu:</p>
+<p style="color:black; size:15px">690 495 230</p>
 <p>Poniższe prace zostały wykonane w celach niekomercyjnych</p>
 <br/><br/>
 
@@ -46,11 +46,11 @@
 
 
 <h2>Adobe Photoshop</h2>
-<div>
-  <div style="float: left; width: 50%; padding: 5px">
+<div style="display: flex">
+  <div style="flex: 50%; padding: 5px">
    <img width="20%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
   </div>
-  <div style="float: left; width: 50%; padding: 5px">
+  <div style="flex: 50%; padding: 5px">
    <img width="20%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
   </div>
 </div>
