@@ -46,27 +46,34 @@
 
 
 <h2>Adobe Photoshop</h2>
+
+<p>Obróbka zdjęć z zastosowaniem maski</p><br/>
 <div style="display: flex">
   <div style="flex: 50%; padding: 5px">
-   <img width="20%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
+   <p>Zdjęcia bazowe</p>
+   <img alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
   </div>
   <div style="flex: 50%; padding: 5px">
-   <img width="20%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
+   <img alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
   </div>
 </div>
+<p>Efekt końcowy</p>
 <div style="text-align: center">
-  <p>Obróbka zdjęć z zastosowaniem maski</p><br/>
   <img alt="efekt_końcowy" src="https://user-images.githubusercontent.com/80105696/120714519-96a51480-c4c3-11eb-905e-49f8a415b8f1.png">
 </div>
 
-<div style="text-align: center">
-  <p>Oczyszczenie starego zdjęcia</p><br/>
-  <img width="50%" alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
-  <img width="50%" alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
+<br/><br/>
+<p>Oczyszczenie starego zdjęcia</p><br/>
+<div style="display: flex">
+  <div style="flex: 50%; padding: 5px">
+   <p>Zdjęcia początkowe</p>
+   <img alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
+  </div>
+  <div style="flex: 50%; padding: 5px">
+   <p>Zdjęcia oczyszczone</p>
+   <img alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
+  </div>
 </div>
-
-
-
 
 
 
