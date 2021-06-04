@@ -43,7 +43,7 @@
   <img width="90%" alt="KKBus_logowanie" src="https://user-images.githubusercontent.com/80105696/120711981-57c18f80-c4c0-11eb-94cf-7f095cdf8e29.png">
   <br/>
   <p style="text-align: left">Strona z listą busów posiadanych przez firmę</p>
-  <img width="90%" alt="KKBus_logowanie" src="https://user-images.githubusercontent.com/80105696/120712457-f221d300-c4c0-11eb-8a96-b17aa8d07dbf.png">
+  <img width="90%" alt="KKBus_lista_busów" src="https://user-images.githubusercontent.com/80105696/120712457-f221d300-c4c0-11eb-8a96-b17aa8d07dbf.png">
 </div>
 <br/><br/><br/>
 
@@ -81,6 +81,7 @@
 
 
 <h2>Adobe InDesign</h2>
+
 <p><strong>Fragmenty księgi znaku loga własnego</strong></p>
 <div style="display: flex; padding-top: -10px">
   <div style="flex: 50%; padding: 5px">
@@ -95,9 +96,37 @@
    <img width="100%" alt="pola_ochronne" src="https://user-images.githubusercontent.com/80105696/120787454-aa866000-c52f-11eb-8d8e-a398805e23b4.png">
   </div>
   <div style="flex: 50%; padding: 5px">
-   <img width="100%" alt="skalowanie" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png">
+   <img width="100%" alt="skalowanie" src="https://user-images.githubusercontent.com/80105696/120788087-5af46400-c530-11eb-8dcb-8d5bcfb534e4.png">
   </div>
 </div>
+<br/><br/><br/>
 
+
+<h2>Blender 3D</h2>
+
+<p><strong>Model kubka</strong></p>
+<div style="text-align: center">
+ <img alt="kubek" src="https://user-images.githubusercontent.com/80105696/120788507-b4f52980-c530-11eb-81a8-72aba9b32807.png">
+</div>
+<br/><br/>
+
+<p><strong>Model szachów</strong></p>
+<div style="text-align: center">
+ <img alt="szachy" src="https://user-images.githubusercontent.com/80105696/120788645-da823300-c530-11eb-926e-7e9e62552b99.png">
+</div>
+<br/><br/><br/>
+
+
+<h2>Figma</h2>
+
+<p><strong>Przykładowy wygląd interface'ów sklepu internetowego dla wymyślonej firmy sprzedającej sprzęt rowerowy</strong></p>
+<div style="text-align: center">
+  <p style="text-align: left">Strona logowania</p>
+  <img width="90%" alt="sklep_logowanie" src="https://user-images.githubusercontent.com/80105696/120789003-4ebcd680-c531-11eb-8f6a-5b271bbcb76d.png">
+  <br/>
+  <p style="text-align: left">Strona z listą busów posiadanych przez firmę</p>
+  <img width="90%" alt="sklep_dane_wysyłki" src="https://user-images.githubusercontent.com/80105696/120789641-27b2d480-c532-11eb-855b-e0e45e1b94ce.png">
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 
