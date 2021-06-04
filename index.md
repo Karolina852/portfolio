@@ -124,7 +124,7 @@
   <p style="text-align: left">Strona logowania</p>
   <img width="90%" alt="sklep_logowanie" src="https://user-images.githubusercontent.com/80105696/120789003-4ebcd680-c531-11eb-8f6a-5b271bbcb76d.png">
   <br/>
-  <p style="text-align: left">Strona z listą busów posiadanych przez firmę</p>
+  <p style="text-align: left">Strona z uzupełnieniem danych do wysyłki zakupionego towaru</p>
   <img width="90%" alt="sklep_dane_wysyłki" src="https://user-images.githubusercontent.com/80105696/120789641-27b2d480-c532-11eb-855b-e0e45e1b94ce.png">
 </div>
 <br/><br/><br/><br/><br/><br/>
