@@ -68,11 +68,11 @@
 <br/><br/>
 <p><strong>Oczyszczenie starego zdjęcia</strong></p>
 <div style="display: flex">
-  <div style="flex: 50%; padding-top: 0px; padding: 5px">
+  <div style="flex: 50%; padding-top: 0px; padding-left: 5px; padding-right: 5px">
    <p>Zdjęcia początkowe</p>
    <img width="100%" alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
   </div>
-  <div style="flex: 50%; padding-top: 0px; padding: 5px">
+  <div style="flex: 50%; padding-top: 0px; padding-left: 5px; padding-right: 5px">
    <p>Zdjęcia oczyszczone</p>
    <img width="100%" alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
   </div>
