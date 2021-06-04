@@ -1,9 +1,9 @@
-<p style="color:#7c334f; size:19px">Autor prac:</p>
-<p style="color:black; size:15px">Karolina Kuczek</p>
-<p style="color:#7c334f; size:19px">E-mail:</p>
-<p style="color:black; size:15px">kuczek.karolina2@gmail.com</p>
-<p style="color:#7c334f; size:19px">Nr telefonu:</p>
-<p style="color:black; size:15px">690 495 230</p>
+<p style="color:#7c334f; font-size:19px">Autor prac:</p>
+<p style="color:black; font-size:15px">Karolina Kuczek</p>
+<p style="color:#7c334f; font-size:19px">E-mail:</p>
+<p style="color:black; font-size:15px">kuczek.karolina2@gmail.com</p>
+<p style="color:#7c334f; font-size:19px">Nr telefonu:</p>
+<p style="color:black; font-size:15px">690 495 230</p>
 <p>Poniższe prace zostały wykonane w celach niekomercyjnych</p>
 <br/><br/>
 
@@ -33,7 +33,7 @@
   <img alt="logo_KKBus" src="https://user-images.githubusercontent.com/80105696/120704330-c13ca080-c4b6-11eb-8e42-f085894b7e9f.png">
 </div>
 
-<br/><br/>
+<br/>
 <p>Przykładowy wygląd interface'ów strony internetowej dla wymyślonej firmy transportowej</p>
 <div style="text-align: center">
   <p style="text-align: left">Strona logowania</p>
@@ -47,14 +47,14 @@
 
 <h2>Adobe Photoshop</h2>
 
-<p>Obróbka zdjęć z zastosowaniem maski</p><br/>
+<p>Obróbka zdjęć z zastosowaniem maski</p>
+<p>Zdjęcia bazowe</p>
 <div style="display: flex">
   <div style="flex: 50%; padding: 5px">
-   <p>Zdjęcia bazowe</p>
-   <img alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
+   <img width="50%" alt="baza_kobieta" src="https://user-images.githubusercontent.com/80105696/120713436-2f3a9500-c4c2-11eb-975d-371e2f6438d5.jpg">
   </div>
   <div style="flex: 50%; padding: 5px">
-   <img alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
+   <img width="50%" alt="baza_tło" src="https://user-images.githubusercontent.com/80105696/120713935-dcada880-c4c2-11eb-8dd4-a8919204dd8e.jpg"><br/>
   </div>
 </div>
 <p>Efekt końcowy</p>
@@ -64,14 +64,14 @@
 
 <br/><br/>
 <p>Oczyszczenie starego zdjęcia</p><br/>
-<div style="display: flex">
+<div style="display: flex; text-align: center">
   <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia początkowe</p>
-   <img alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
+   <img  alt="stare" src="https://user-images.githubusercontent.com/80105696/120716273-1af89700-c4c6-11eb-8e45-bc6488733254.jpg">
   </div>
   <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia oczyszczone</p>
-   <img alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
+   <img  alt="odnowione" src="https://user-images.githubusercontent.com/80105696/120715809-71b1a100-c4c5-11eb-8a59-e024777071d8.png"><br/>
   </div>
 </div>
 
