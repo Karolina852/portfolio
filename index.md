@@ -1,10 +1,10 @@
 <div style="text-align: right">
  <p style="color:#7c334f; font-size:19px">Autor prac:</p>
- <p style="color:black; font-size:15px"><b>Karolina Kuczek</b></p>
+ <p style="color:black; font-size:15px"><strong>Karolina Kuczek</strong></p>
  <p style="color:#7c334f; font-size:19px">E-mail:</p>
- <p style="color:black; font-size:15px"><b>kuczek.karolina2@gmail.com</b></p>
+ <p style="color:black; font-size:15px"><strong>kuczek.karolina2@gmail.com</strong></p>
  <p style="color:#7c334f; font-size:19px">Nr telefonu:</p>
- <p style="color:black; font-size:15px"><b>690 495 230</b></p>
+ <p style="color:black; font-size:15px"><strong>690 495 230</strong></p>
 </div>
 <br/>
 <p>Poniższe prace zostały wykonane w celach niekomercyjnych</p>
@@ -13,31 +13,31 @@
 
 <h2>Adobe Illustrator</h2>
 
-<p>Logo własne</p>
+<p><strong>Logo własne</strong></p>
 <div style="text-align: center">
  <img alt="logo_własne" src="https://user-images.githubusercontent.com/80105696/120777156-4a8abc00-c525-11eb-953b-46319be217d7.png">
 </div>
 
 <br/><br/>
-<p>Logo aplikacji do rysowania wymyślonej na potrzeby studiów</p>
+<p><strong>Logo aplikacji do rysowania wymyślonej na potrzeby studiów</strong></p>
 <div style="text-align: center">
   <img alt="logo_aplikacji_rysującej" src="https://user-images.githubusercontent.com/80105696/120709430-20051880-c4bd-11eb-8869-4031b5f6f025.png">
 </div>
 
 <br/><br/>
-<p>Przykład ikon</p>
+<p><strong>Przykład ikon</strong></p>
 <div style="text-align: center">
   <img alt="ikony" src="https://user-images.githubusercontent.com/80105696/120709711-7eca9200-c4bd-11eb-9a69-907a01335486.png">
 </div>
 
 <br/><br/>
-<p>Logo firmy transportowej wymyślonej na potrzeby studiów</p>
+<p><strong>Logo firmy transportowej wymyślonej na potrzeby studiów</strong></p>
 <div style="text-align: center">
   <img alt="logo_KKBus" src="https://user-images.githubusercontent.com/80105696/120704330-c13ca080-c4b6-11eb-8e42-f085894b7e9f.png">
 </div>
 
 <br/>
-<p>Przykładowy wygląd interface'ów strony internetowej dla wymyślonej firmy transportowej</p>
+<p><strong>Przykładowy wygląd interface'ów strony internetowej dla wymyślonej firmy transportowej</strong></p>
 <div style="text-align: center">
   <p style="text-align: left">Strona logowania</p>
   <img width="90%" alt="KKBus_logowanie" src="https://user-images.githubusercontent.com/80105696/120711981-57c18f80-c4c0-11eb-94cf-7f095cdf8e29.png">
@@ -50,7 +50,7 @@
 
 <h2>Adobe Photoshop</h2>
 
-<p>Obróbka zdjęć z zastosowaniem maski</p>
+<p><strong>Obróbka zdjęć z zastosowaniem maski</strong></p>
 <p>Zdjęcia bazowe</p>
 <div style="display: flex">
   <div style="flex: 50%; padding: 5px">
@@ -66,7 +66,7 @@
 </div>
 
 <br/><br/>
-<p>Oczyszczenie starego zdjęcia</p>
+<p><strong>Oczyszczenie starego zdjęcia</strong></p>
 <div style="display: flex">
   <div style="flex: 50%; padding: 5px">
    <p>Zdjęcia początkowe</p>
